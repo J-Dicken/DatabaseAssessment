@@ -1,0 +1,81 @@
+*{
+	font-family: 'Mohave', serif;
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+header{
+	background-color: #fff;
+	box-shadow: 0px -1px 2px 1px #041b3a;
+	margin-bottom: 1rem;
+}
+
+#innerHeader{
+	max-width: 80%;
+	display: flex;
+	padding: 0.5em 0;
+	margin: 0 auto;
+	align-items: center;
+}
+
+#logo{
+	width: 20%;
+	margin: auto;
+	text-align: center;
+}
+
+#logo h1{
+	font-size: 62px;
+	margin: 0;
+	padding: 0;
+}
+
+#logo h2{
+	font-size: 18px;
+	margin: 0;
+	padding: 0;
+}
+
+nav {
+	width: 80%;
+	max-height: 65.05px;
+	margin: auto;
+}
+
+nav ul{
+	width: 100%;
+	margin: auto;
+	display: flex;
+}
+
+nav ul li{
+	width: 25%;
+	cursor: pointer;
+	margin: auto;
+	padding: 24px 0px;
+	text-align: center;
+	list-style: none;
+}
+
+nav ul li a{
+	text-decoration: none;
+	font-size: 20px;
+	color: #041b3a;
+	line-height: 24px;
+	transition: font-size 200ms;
+}
+
+nav ul li:hover a{
+	font-size: 24px;	
+}
+
+footer{
+	color: #fff;
+	background-color: #000;
+	margin-top: 2rem;
+}
+
+#sqlLog{
+	text-align: center;
+}

@@ -1,0 +1,27 @@
+#innerPage{
+	width: 100%;
+	margin: auto;
+}
+
+#dbSelect{
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	margin-bottom: 1rem;
+}
+
+#dbSel{
+	font-size: 18px;
+	border: solid 1px black;
+	cursor: pointer;
+}
+
+#subBtn{
+	font-size: 18px;
+	width: 5rem;
+	height: 1.5rem;
+}
+
+input{
+	cursor: pointer;
+}

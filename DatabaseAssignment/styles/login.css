@@ -1,0 +1,39 @@
+#formWrapper{
+	width:20%;
+	margin: auto;
+	margin-top: 5rem;
+	display: block;
+	justify-content: center;
+	border: solid 1px black;
+	border-radius: 2px;
+	padding: 10px;
+}
+
+#formWrapper form{
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	font-size: 20px;
+}
+
+.inputWrapper{
+	display: flex;
+	width: 100%;
+	margin: auto;
+	justify-content: space-between;
+	margin-bottom: 1rem;
+}
+
+.input{
+	border: solid 1px black;
+}
+
+#subBtn{
+	font-size: 20px;
+	height: 1.5rem;
+	cursor: pointer;
+}
+
+#err{
+	text-align: center;
+}

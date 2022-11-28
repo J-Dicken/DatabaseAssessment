@@ -1,0 +1,17 @@
+table{
+	min-width: 30%;
+	margin: auto;
+	
+}
+
+th{
+	font-size: 20px;
+	text-align: left;
+	padding-right: 2em;
+}
+
+td{
+	font-size: 16px;
+	padding-right: 2em;
+
+}
